@@ -1,0 +1,52 @@
+.colour { color: #2ECC71; }
+a {	color:#2ECC71; }
+a:hover{ color:#95A5A6; }
+a:focus {color:#2ECC71; }
+::selection { background: #2ECC71; color: #fff; }
+::-moz-selection { background: #2ECC71; color: #fff; }
+
+/**** TOOLTIP ****/
+.tooltip-inner { background-color:#2ECC71; }
+.tooltip.top .tooltip-arrow {  border-top-color: #2ECC71; }
+
+/**** CIRCLE LINK ****/
+.circle-link { background:#2ECC71; }
+
+/**** MENU ****/
+.header { background: #fff; color: #555; }
+.header.tiny { background: #fff; }
+
+/**** STACK SLIDER BUTTON****/
+.st-wrapper nav span:before { background:#2ECC71;}
+/**** STACK SLIDER LINES ****/
+.st-stack {
+	background-image: -webkit-linear-gradient(top, #f0F0F0 50%, #2ECC71 50%);
+	background-image: -moz-linear-gradient(top, #f0F0F0 50%, #2ECC71 50%);
+	background-image: -o-linear-gradient(top, #f0F0F0 50%, #2ECC71 50%);
+	background-image: -ms-linear-gradient(top, #f0F0F0 50%, #2ECC71 50%);
+	background-image: linear-gradient(to bottom, #f0F0F0 50%, #2ECC71 50%);
+}
+
+/**** TEAM BOX COLOUR ****/
+.grida figcaption { background:#2ECC71; }
+
+/**** WORK - HOVER BG - LOAD MORE HOVER - LIGHTBOX BAR ****/
+.thumbnail-caption{ background: #2ECC71;}
+.grid-loadMore:hover{ color:#2ECC71!important; }
+.autoGrid-nav{ background: #2ECC71; }
+
+/**** BAR - BIG STATS ****/
+#bigstats { background: #2ECC71; }
+
+/**** BAR - CLIENTS ****/
+#Section-Colour { background: #2ECC71; }
+
+/**** PRICING TABLE CIRCLE COLOUR ****/
+#pricing-table h3 span { background: #2ECC71; }
+
+/**** CONTACT SECTION CONTACT BUTTON HOVER COLOUR ****/
+#ajax-contact-form input.btn { background:#2ECC71!important; color:#fff!important;}
+#ajax-contact-form input.btn:hover { background:#95A5A6!important; color:#fff!important; }
+
+/**** TABS ****/
+.nav-tabs .active a, .nav-tabs a:hover, .nav-tabs .active  a:focus { background-color: #2ECC71!important;}
